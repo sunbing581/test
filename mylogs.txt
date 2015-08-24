@@ -1,1 +1,5 @@
 2015-08-24:git test clone to local;
+           git test add file 
+           git commit changes
+           git push changes
+           

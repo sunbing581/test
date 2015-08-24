@@ -1,0 +1,40 @@
+/*common.css*/
+body{
+  font-family: "microsoft yahei"
+}
+.mar10{
+  margin: 10px;
+}
+.martop10{
+  margin-top:10px;
+}
+.marleft10{
+  margin-left:10px;
+}
+.marright10{
+  margin-right:10px;
+}
+.marbottom10{
+  margin-bottom:10px;
+}
+.padd10{
+  padding: 10px;
+}
+
+.web_con{
+  
+}
+.head_con{
+  height: 200px;
+  border-bottom: 1px solid #dcdddd;
+  background-color: rgba(0,23,0,.4);
+}
+.body_con{
+  width: 980px;
+  margin: 0 auto;
+}
+.wap980{
+  width: 980px;
+  margin: 0 auto;
+}
+
